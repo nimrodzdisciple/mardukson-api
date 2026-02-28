@@ -1,0 +1,14 @@
+{
+  "name": "mardukson-api",
+  "version": "1.0.0",
+  "main": "storeData.js",
+  "scripts": {
+    "start": "node storeData.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "stripe": "^14.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.3"
+  }
+}
